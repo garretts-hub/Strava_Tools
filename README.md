@@ -14,11 +14,11 @@
 It's easy! Copy the contents of the `source` folder here to a folder accessible via ArcGIS Pro. Open your ArcGIS Pro project, and in the Catalog pane, right click Toolboxes, and then select "Add Toolbox". 
 
 Select `Strava_Tools.pyt` in the pop-up explorer. Now you should be good to go!
-<img src="https://github.com/garretts-hub/Strava_Tools/blob/main/images/using_tool.png" alt="Using the Toolbox" title="Using the Toolbox">
+<img src="https://github.com/garretts-hub/Strava_Tools/blob/master/images/using_tool.png" alt="Using the Toolbox" title="Using the Toolbox">
 Documentation for each tool parameter is provided in the "Help" icon when hovering over each input.
-<img src="https://github.com/garretts-hub/Strava_Tools/blob/main/images/parameters.png" alt="Tool Parameters" title="Tool Parameters">
-<img src="https://github.com/garretts-hub/Strava_Tools/blob/main/images/Logging.png" alt="Verbose Logging" title="ArcGIS Tool Messages">
-<img src="https://github.com/garretts-hub/Strava_Tools/blob/main/images/output.png" alt="Output Feature Class" title="Output Feature Class">
+<img src="https://github.com/garretts-hub/Strava_Tools/blob/master/images/parameters.png" alt="Tool Parameters" title="Tool Parameters">
+<img src="https://github.com/garretts-hub/Strava_Tools/blob/master/images/Logging.png" alt="Verbose Logging" title="ArcGIS Tool Messages">
+<img src="https://github.com/garretts-hub/Strava_Tools/blob/master/images/output.png" alt="Output Feature Class" title="Output Feature Class">
 
 #### Change Log
 |Version|Date|Summary of Changes|
